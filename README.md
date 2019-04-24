@@ -1,0 +1,2 @@
+# wordPress
+For learning purpose
